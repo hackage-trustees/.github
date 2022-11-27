@@ -8,3 +8,6 @@ Looking for assistance from the [Hackage trustees](https://hackage.haskell.org/p
 Try these resources:
 - https://github.com/haskell-infra/hackage-trustees: How to file a package revision or NMU request; how to contact the Hackage trustees.
 - https://wiki.haskell.org/Hackage_trustees: On the role and services of Hackage trustees.
+
+Futher tools to help with Hackage trustee activities:
+- https://github.com/phadej/trustee: Helps with package maintenance: mines dependency bounds, tests multi-GHC compilation.
